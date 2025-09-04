@@ -9,7 +9,7 @@ Some fun facts about me:
 2. I have 3 sisters.
 3. I have slight bananaphobia.
 
-![lifting rock](hobby_picture.jpg)
+![lifting rock](assets/hobby_picture.jpg)
 
 
 # Table of Contents
