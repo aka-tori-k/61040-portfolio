@@ -2,15 +2,14 @@
 This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
 
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+*My name is Tori Kelley, and I'm a senior in 6-4. [Here's](https://akatorik.wordpress.com/) a link to my site. it's nice to meet you!*
 
 Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+1. I walked across a state in a day.
+2. I have 3 sisters.
+3. I have slight bananaphobia.
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+![lifting rock](assets/hobby_picture.jpg)
 
 
 # Table of Contents
